@@ -2,6 +2,7 @@
     cursor: pointer;
     padding: 10px;
     margin: 0 15px;
+    max-width: 200px;
 
     &__img {
         width: 180px;
@@ -41,6 +42,7 @@
         text-align: center;
         margin: 10px 0;
         font-size: 0.875rem;
+        line-height: 1.25rem;
         font-family: $font_light;
     }
     
