@@ -1,0 +1,8 @@
+.glide {
+    cursor: default;
+
+    & .glide__slide {
+        height: 100vh;
+        overflow-y: auto;
+    }
+}
